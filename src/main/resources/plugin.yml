@@ -1,0 +1,6 @@
+name: TWFly
+version: '${project.version}'
+main: ru.malinki.tw_fly.Main
+api-version: '1.16'
+commands:
+  f:
